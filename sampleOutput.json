@@ -1,0 +1,96 @@
+{
+  "status": "ok",
+  "totalResults": 9,
+  "articles": [
+    {
+      "source": { "id": "rtl-nieuws", "name": "RTL Nieuws" },
+      "author": "RTL Nieuws",
+      "title": "Tevredenheid over eerste schoolweek: 'Bijna business as usual'",
+      "description": "Voor de scholen in de regio noord zit de eerste week van het nieuwe schooljaar er al bijna op. Na een coronaschooljaar met veel thuisonderwijs zijn de schooldeuren nu volledig open. Voor veel scholen is de eerste week positief verlopen maar dit geldt lang nie…",
+      "url": "https://www.rtlnieuws.nl/nieuws/artikel/5250276/schooljaar-start-coronaregels-versoepeling",
+      "urlToImage": "https://www.rtlnieuws.nl/sites/default/files/styles/liggend_hoge_resolutie/public/content/images/2021/08/04/middelbare%20school-archief.jpg?h=a375be57&itok=kXXN_qn2",
+      "publishedAt": "2021-08-27T11:40:14+00:00",
+      "content": "Ook op de basisschool is het schooljaar anders begonnen dan vorig jaar. Iedereen moet zich nog wel houden aan de basisregels, zoals handen wassen en thuisblijven bij klachten, maar leerlingen mogen n… [+621 chars]"
+    },
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "fin24",
+      "title": "Discovery says pandemic was much more severe in SA than UK, but expects increased profit",
+      "description": "Despite a surge in death claims due to Covid-19 in its life insurance business, Discovery expects an increase of between 900% and 920% in its headline profit for the year to end-June.",
+      "url": "https://www.news24.com/fin24/Companies/Financial-Services/discovery-says-sa-pandemic-was-much-more-severe-than-in-uk-but-expects-increased-profit-20210827",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11287/112f1ef56b764b0eaa347a0911ffb896.jpg",
+      "publishedAt": "2021-08-27T11:01:38+00:00",
+      "content": "Despite a surge in death claims due to Covid-19 in its life insurance business, Discovery expects an increase of between 900% and 920% in its headline profit for the year to end-June.\r\nIts \"normalise… [+1543 chars]"
+    },
+    {
+      "source": { "id": "google-news-uk", "name": "Google News (UK)" },
+      "author": "Edward Luce",
+      "title": "Joe Biden’s potential Jimmy Carter moment",
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzI5ZTEzNDJiLWFkYmEtNDZkNS1hYmJhLThjNDcxZGM5YThmYtIBP2h0dHBzOi8vYW1wLmZ0LmNvbS9jb250ZW50LzI5ZTEzNDJiLWFkYmEtNDZkNS1hYmJhLThjNDcxZGM5YThmYg?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-08-27T00:08:54+00:00",
+      "content": "Let our global subject matter experts broaden your perspective with timely insights and opinions you\r\ncant find anywhere else."
+    },
+    {
+      "source": { "id": "fortune", "name": "Fortune" },
+      "author": "Azish Filabi",
+      "title": "Businesses shouldn’t do good for the sole purpose of doing well",
+      "description": "Business leaders should start asking what values their companies bring to society.",
+      "url": "https://fortune.com/2021/08/26/business-leaders-doing-good-society/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2021/08/GettyImages-645973141.jpg?resize=1200,600",
+      "publishedAt": "2021-08-26T23:00:00Z",
+      "content": "Skip to Content"
+    },
+    {
+      "source": { "id": "fortune", "name": "Fortune" },
+      "author": "Alexandra Brodsky",
+      "title": "How business can address sexual harassment when workers return to the office",
+      "description": "Commentary: Sexual harassment policies are going to take on extra importance when employees return to the office.",
+      "url": "https://fortune.com/2021/08/24/sexual-harassment-misconduct-training-return-office-work/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2021/08/Commentary-Back-to-Office-Plans-GettyImages-1234454841.jpg?resize=1200,600",
+      "publishedAt": "2021-08-24T14:00:00Z",
+      "content": "Skip to Content"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Marc Bettinelli",
+      "title": "Vidéo. « Rap business » : pourquoi le rap domine le marché de la musique",
+      "description": "Vidéo - En trois décennies, le rap est devenu le numéro un des ventes et des écoutes. Pour comprendre cette ascension fulgurante, « Le Monde » a rencontré des chercheurs et des piliers du secteur, entre Paris et New York.",
+      "url": "https://www.lemonde.fr/culture/video/2021/08/15/rap-business-pourquoi-le-rap-domine-le-marche-de-la-musique_6091492_3246.html",
+      "urlToImage": "https://img.lemde.fr/2021/08/10/0/0/1920/960/1440/720/60/0/c977766_286908103-rap-business-integrale-sirius-copie.jpg",
+      "publishedAt": "2021-08-15T12:00:12Z",
+      "content": "Comment le rap est-il passé du statut de paria au top des ventes ? DIAM à Booba et PNL, de NWA à Drake et Eminem, le hip-hop et, en particulier, le rap français se sont imposés en moins de trente ans… [+1020 chars]"
+    },
+    {
+      "source": { "id": "financial-post", "name": "Financial Post" },
+      "author": "Financial Post",
+      "title": "",
+      "description": "Fundingportal helps companies and organizations get funding from 11,000 government grants and business incentives programs",
+      "url": "https://fundingportal.com/",
+      "urlToImage": null,
+      "publishedAt": "2021-06-22T14:52:23.6527435Z",
+      "content": "Fundsearch\r\nUse our self-serve tool 24/7/365 to find the right incentives and investment for your projects in minutes. Your results will showcase your top 20 grants, government incentives, tax credit… [+71 chars]"
+    },
+    {
+      "source": { "id": "financial-post", "name": "Financial Post" },
+      "author": "Financial Post",
+      "title": "Business Essentials",
+      "description": "Stay up-to-date with the latest business trends and information on the Canadian economy, stock market and personal finance. Learn to save money, invest in the market, grow your wealth and advance your career with new skills.",
+      "url": "https://financialpost.com/category/personal-finance/business-essentials/",
+      "urlToImage": null,
+      "publishedAt": "2021-06-17T14:07:25.0207537Z",
+      "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2021 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+    },
+    {
+      "source": { "id": "financial-post", "name": "Financial Post" },
+      "author": "Financial Post",
+      "title": "News",
+      "description": "Latest breaking business news &amp; headlines. Stay in touch with the latest happenings in Local and International organizations and financial sector.",
+      "url": "http://business.financialpost.com/category/news/",
+      "urlToImage": null,
+      "publishedAt": "2020-07-09T18:37:17.5638279Z",
+      "content": "Visit the Postmedia Brands page\r\n365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n© 2020 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmis… [+41 chars]"
+    }
+  ]
+}
